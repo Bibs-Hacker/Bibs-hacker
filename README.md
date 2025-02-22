@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-┏▣ ◈ *CYPHER-X* ◈
-┃ *ᴏᴡɴᴇʀ* : Anonymous 
+┏▣ ◈ *KHABIB SHEE* ◈
+┃ *ᴏᴡɴᴇʀ* : KHABIB NOELS
 ┃ *ᴘʀᴇғɪx* : [ . ]
 ┃ *ʜᴏsᴛ* : linux
 ┃ *ᴘʟᴜɢɪɴs* : 269
